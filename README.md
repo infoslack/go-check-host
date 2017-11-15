@@ -1,0 +1,3 @@
+check status host
+=================
+
